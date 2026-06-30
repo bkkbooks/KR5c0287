@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5c0287/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5c0287/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太極真人九轉還丹經要訣
+  date: '2015-08-29 00:55:35.520511'
+  source:
+    repository: kanripo
+    path: KR5c0287
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0287_000-ZTDZ.yaml, hash: 'sha256:a588d1868f0400247957ad75f637f67a65fec5a58c7276dd20c92c516df85212'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0287_000-ZTDZ.markers.yaml, hash: 'sha256:eec4fe635297ea537bb56e5b2e19ede1e50274a4a59244b3692601bc9f6aa366'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0287_SJB_000-190010c
+    span:
+    - body
+    - 0
+    - 1843
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:ea931e1c6824b4b5c88b2a9b4a7222775bb0bf66c0ce3cdd7cf0da680828a943
